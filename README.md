@@ -1,1 +1,1 @@
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jongtae0509)](https://solved.ac/jongtae0509)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongtae0509)](https://solved.ac/jongtae0509)
